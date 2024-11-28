@@ -86,21 +86,6 @@ The dataset for this project was sourced from [Kaggle](https://www.kaggle.com/da
 
 ---
 
-credit-risk-analysis/
-├── data/
-│   ├── credit_risk_dataset.csv   # Raw dataset
-│   ├── final_data.csv            # Cleaned dataset after preprocessing
-├── notebooks/
-│   ├── Credit Risk Analysis.ipynb  # Main analysis notebook
-├── src/
-│   ├── preprocessing.py          # Preprocessing scripts
-│   ├── modeling.py               # Model training scripts
-├── README.md                     # Project documentation
-├── LICENSE                       # Apache 2.0 license file
-└── requirements.txt              # Python dependencies
-
----
-
 Dependencies
 - Python 3.8+
 - Key Libraries:
