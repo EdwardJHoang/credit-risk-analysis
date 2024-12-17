@@ -121,16 +121,6 @@ The project evaluated multiple predictive models to classify loan approvals and 
 
 ---
 
-## File Structure  
-The project follows a clear and organized folder structure:  
-project_folder/
-|-- credit_risk_dataset.csv # Raw dataset
-|-- final_data.csv # Cleaned dataset
-|-- credit_risk_analysis.ipynb # Main notebook
-|-- README.md # Project documentation
-
----
-
 ## Future Work  
 1. Apply ensemble techniques for better predictive performance (e.g., XGBoost, Random Forest).  
 2. Investigate **feature engineering** to include new metrics like debt-to-income ratio.  
